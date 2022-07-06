@@ -11,3 +11,9 @@ A collection of all the code samples, notes, and exercises created while learnin
 - [Quadratic Time - O(n^2)](<./Big-O/O(n%5E2).js>)
 - [Space Complexity](./Big-O/space-complexity.js)
 - [Cheatsheet](./Big-O/Cheatsheet.pdf)
+
+#### How To Solve Coding Problems
+
+- [Cheatsheet](./How-To-Solve-Problems/cheatsheet.pdf)
+- [Google's Coding Interview - Video](https://www.youtube.com/watch?v=XKu_SEDAykw&ab_channel=LifeatGoogle)
+- [Google Interview - Solution](./How-To-Solve-Problems/google-interview-question.js)
