@@ -24,7 +24,7 @@ There are 2 types of array:
 | Fast push/pop |    Slow deletes     |
 |    Ordered    | Fixed size (static) |
 
-#### Contents
+## Contents
 
 - [Arrays](./arrays.js)
 - [Implementing Arrays](./implementing-arrays.js)

@@ -21,7 +21,8 @@ A collection of all the code samples, notes, and exercises created while learnin
 #### Data Structures
 
 1. [Arrays](./Data%20Structures/Arrays/readme.md)
+2. [Hash Tables](./Data%20Structures/Hash%20Tables/readme.md)
 
-## TO-DO's
+## To-Do's
 
 - Array questions(leetcode) from arrays section
