@@ -20,4 +20,8 @@ A collection of all the code samples, notes, and exercises created while learnin
 
 #### Data Structures
 
-1. [Arrays](./Data%20Structures/Arrays/)
+1. [Arrays](./Data%20Structures/Arrays/readme.md)
+
+## TO-DO's
+
+- Array questions(leetcode) from arrays section
