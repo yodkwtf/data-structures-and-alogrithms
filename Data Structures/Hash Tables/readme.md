@@ -30,6 +30,8 @@ Since Hash Tables aren't ordered, we don't have to shift other data when access 
 - Unordered
 - Getting all keys requires looping over entire storage, even the empty spaces
 
+> Most of the times when we optimize time complexities and reduce it, we end up increasing the space complexities of the function. It can observed in many questions when we create a new hashTable to store data while we loop over it.
+
 ## Contents
 
 - [Hash Tables](./hash-tables.js)
