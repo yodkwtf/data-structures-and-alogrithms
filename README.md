@@ -25,4 +25,4 @@ A collection of all the code samples, notes, and exercises created while learnin
 
 ## To-Do's
 
-- Array questions(leetcode) from arrays section
+- [] Array questions (leetcode) from arrays section

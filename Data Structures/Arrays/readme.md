@@ -9,12 +9,13 @@ There are 2 types of array:
 
 #### Time Complexities
 
-|    Methods    |  Time Complexity   |
-| :-----------: | :----------------: |
-| lookup/access |        O(1)        |
-|  push/append  | O(1) / O(n) (rare) |
-|    insert     |        O(n)        |
-|    delete     |        O(n)        |
+|   Methods   |  Time Complexity   |
+| :---------: | :----------------: |
+|   access    |        O(1)        |
+| push/append | O(1) / O(n) (rare) |
+|   insert    |        O(n)        |
+|   delete    |        O(n)        |
+|   search    |        O(n)        |
 
 #### When to Use Arrays?
 
