@@ -107,6 +107,6 @@ myLinkedList.prepend(3); // 3 -> 10 -> 5 -> 16
 // myLinkedList.insert(200, 95); // 3 -> 10 -> 5 -> 16 -> 95
 myLinkedList.insert(2, 35); // 3 -> 10 -> 35 -> 5 -> 16
 myLinkedList.remove(3); // 3 -> 10 -> 35 -> 16
-myLinkedList.remove(3); // 3 -> 10 -> 35f
+myLinkedList.remove(3); // 3 -> 10 -> 35
 
 console.log(myLinkedList.printList());
