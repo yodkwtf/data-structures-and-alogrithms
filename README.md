@@ -23,6 +23,7 @@ A collection of all the code samples, notes, and exercises created while learnin
 1. [Arrays](./Data%20Structures/Arrays/readme.md)
 2. [Hash Tables](./Data%20Structures/Hash%20Tables/readme.md)
 3. [Linked Lists](./Data%20Structures//Linked%20Lists/readme.md)
+4. [Stacks and Queues](./Data%20Structures/Stacks%20%26%20Queues/readme.md)
 
 ## To-Do's
 
