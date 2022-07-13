@@ -36,7 +36,15 @@ Some languages already have built-in Linked Lists while some don't. We can creat
 |   insert   |      O(n)       |
 |   delete   |      O(n)       |
 
+#### Why Linked Lists?
+
+- Fast insertion and deletion since the size is flexible and unlike arrays we don't have to keep doubling up the size
+- This insertion/deletion becomes extra fast if we have the ref for the item or it's from start or end
+- Example - Browsers (serving pages back & forth), file systems
+
 ## Contents
 
-- [Singly Linked Lists](./singly-linked-list.js)
-- [Doubly Linked Lists](./doubly-linked-list.js)
+- [Singly Linked Lists](singly-linked-list.js)
+- [Doubly Linked Lists](doubly-linked-list.js)
+- [Reverse a Linked List](reverse-a-linked-list.js)
+- [Reverse Linked List - Visual Representation](https://youtu.be/D7y_hoT_YZI)
