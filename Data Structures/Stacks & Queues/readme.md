@@ -19,3 +19,6 @@ We can built stacks and queues using arrays and linked lists but with a lesser n
 #### Queues
 
 - [Introduction](./Queues/readme.md)
+- [Queues with Linked Lists](./Queues/queues-with-linkedlist.js)
+- [Implementing Queues with Stacks - Code Example](./Queues/queues-with-stacks.js)
+- [Implementing Queues with Stacks - Video Explanation](https://youtu.be/Wg8IiY1LbII)
