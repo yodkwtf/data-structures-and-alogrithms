@@ -24,7 +24,19 @@ A collection of all the code samples, notes, and exercises created while learnin
 2. [Hash Tables](./Data%20Structures/Hash%20Tables/readme.md)
 3. [Linked Lists](./Data%20Structures//Linked%20Lists/readme.md)
 4. [Stacks and Queues](./Data%20Structures/Stacks%20%26%20Queues/readme.md)
+5. [Trees](./Data%20Structures/Trees/readme.md)
+
+## Resources
+
+- [Visualize DSA with Illustrations](https://visualgo.net/en)
+- [JSON to Tree Diagram](https://vanya.jp.net/vtree/)
+- [Google's Coding Interview - Video Example](https://youtu.be/XKu_SEDAykw)
+- [Back To Back SWE - YouTube Channel for DSA](https://www.youtube.com/c/BackToBackSWE/playlists)
 
 ## To-Do's
 
-- [] Array questions (leetcode) from arrays section
+- [] Array questions (leetcode) from _arrays_ section
+- [] Watch the video titled "How Javascript Works?" from the _stacks and queues_ section
+- [] Read about **Abstract Syntax Tree**
+- [] Understand and add `remove()` method to our binary search trees
+- [] Read more about Balanced BST (AVL and Red Black), possibly from [here](https://www.geeksforgeeks.org/red-black-tree-vs-avl-tree/amp/)?
