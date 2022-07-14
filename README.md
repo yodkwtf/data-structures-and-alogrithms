@@ -14,9 +14,10 @@ A collection of all the code samples, notes, and exercises created while learnin
 
 #### How To Solve Coding Problems
 
-- [Cheatsheet](./How-To-Solve-Problems/cheatsheet.pdf)
-- [Google's Coding Interview - Video](https://www.youtube.com/watch?v=XKu_SEDAykw&ab_channel=LifeatGoogle)
+[Google's Coding Interview - Video](https://www.youtube.com/watch?v=XKu_SEDAykw&ab_channel=LifeatGoogle)
+
 - [Google Interview - Solution](./How-To-Solve-Problems/google-interview-question.js)
+- [Cheatsheet](./How-To-Solve-Problems/cheatsheet.pdf)
 
 #### Data Structures
 
@@ -28,6 +29,7 @@ A collection of all the code samples, notes, and exercises created while learnin
 
 ## Resources
 
+- [Big-O Reference Cheatsheet](https://www.bigocheatsheet.com/)
 - [Visualize DSA with Illustrations](https://visualgo.net/en)
 - [JSON to Tree Diagram](https://vanya.jp.net/vtree/)
 - [Google's Coding Interview - Video Example](https://youtu.be/XKu_SEDAykw)
@@ -38,5 +40,9 @@ A collection of all the code samples, notes, and exercises created while learnin
 - [] Array questions (leetcode) from _arrays_ section
 - [] Watch the video titled "How Javascript Works?" from the _stacks and queues_ section
 - [] Read about **Abstract Syntax Tree**
+- [] Read about **Data Structure vs Abstract Data Type**
 - [] Understand and add `remove()` method to our binary search trees
 - [] Read more about Balanced BST (AVL and Red Black), possibly from [here](https://www.geeksforgeeks.org/red-black-tree-vs-avl-tree/amp/)?
+- [] Read more about heaps and how to implement them
+- [] Add notes for the Tree section
+- [] Make an index for the handwritten notes
