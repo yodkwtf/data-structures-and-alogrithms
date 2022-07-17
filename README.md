@@ -53,3 +53,6 @@ A collection of all the code samples, notes, and exercises created while learnin
 - [] Read more about Balanced BST (AVL and Red Black), possibly from [here](https://www.geeksforgeeks.org/red-black-tree-vs-avl-tree/amp/)?
 - [] Read more about heaps and how to implement them
 - [] Read what's Tail Call Optimization, possibly from [this source](https://2ality.com/2015/06/tail-call-optimization.html)?
+- [] Read about stable vs unstable algorithms
+- [] Learn how to code Merge Sort and Quick sort
+- [] Learn Heap sort
