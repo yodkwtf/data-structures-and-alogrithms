@@ -31,11 +31,13 @@ A collection of all the code samples, notes, and exercises created while learnin
 #### Algorithms
 
 1. [Recursion](./Algorithms/Recursion/readme.md)
+2. [Sorting](./Algorithms/Sorting/readme.md)
 
 ## Resources
 
 - [Big-O Reference Cheatsheet](https://www.bigocheatsheet.com/)
 - [Visualize DSA with Illustrations](https://visualgo.net/en)
+- [Sorting Algorithm Animations](https://www.toptal.com/developers/sorting-algorithms)
 - [JSON to Tree Diagram](https://vanya.jp.net/vtree/)
 - [Google's Coding Interview](https://youtu.be/XKu_SEDAykw)
 - [The Best YouTube Channel for DSA](https://www.youtube.com/c/BackToBackSWE/playlists)
