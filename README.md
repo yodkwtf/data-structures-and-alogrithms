@@ -38,6 +38,7 @@ A collection of all the code samples, notes, and exercises created while learnin
 - [Big-O Reference Cheatsheet](https://www.bigocheatsheet.com/)
 - [Visualize DSA with Illustrations](https://visualgo.net/en)
 - [Sorting Algorithm Animations](https://www.toptal.com/developers/sorting-algorithms)
+- [Learn Sorting Algorithms with Dance](https://www.youtube.com/watch?v=Xw2D9aJRBY4&list=PLcX11VWS1PdA4dSPip8-1JfKxFa32X53y)
 - [JSON to Tree Diagram](https://vanya.jp.net/vtree/)
 - [Google's Coding Interview](https://youtu.be/XKu_SEDAykw)
 - [The Best YouTube Channel for DSA](https://www.youtube.com/c/BackToBackSWE/playlists)

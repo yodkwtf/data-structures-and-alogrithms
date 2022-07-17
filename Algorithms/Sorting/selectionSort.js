@@ -15,10 +15,10 @@ function selectionSort(arr) {
       }
     }
 
-    // the place we found the smallest element now takes the value of assumed smallest from the start of the iteration
-    arr[indexOfMin] = initialSmallest;
     // the index we're looping for now takes the value of the smallest element
     arr[i] = arr[indexOfMin];
+    // the place we found the smallest element now takes the value of assumed smallest from the start of the iteration
+    arr[indexOfMin] = initialSmallest;
   }
 
   return arr;

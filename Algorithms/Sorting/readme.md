@@ -18,8 +18,15 @@ We do this one by one for every value in the list and hence one by one start pla
 
 Since we run nested loops, again we get a **time complexity of O(n^2)** and **space complexity of O(1)**.
 
+#### Insertion Sort
+
+We compare items one by one, starting with the second value in the list. If this value is greater than the value to the left of it, no changes are made. Otherwise this value is moved left and we keep comparing and moving until it meets a value that is less than it. The sort process then starts again with the next value.
+
+Insertion sort is also not the most efficient of ways but in certain situations it can give results really fast.
+
 ## Contents
 
 - [Sort() method](<sort().js>)
 - [Bubble Sort](bubbleSort.js)
 - [Selection Sort](selectionSort.js)
+- [Insertion Sort](insertionSort.js)
