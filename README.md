@@ -32,6 +32,7 @@ A collection of all the code samples, notes, and exercises created while learnin
 
 1. [Recursion](./Algorithms/Recursion/readme.md)
 2. [Sorting](./Algorithms/Sorting/readme.md)
+3. [Searching](./Algorithms/Searching/readme.md)
 
 ## Resources
 
@@ -56,3 +57,4 @@ A collection of all the code samples, notes, and exercises created while learnin
 - [] Read about stable vs unstable algorithms
 - [] Learn how to code Merge Sort and Quick sort
 - [] Learn Heap sort
+- [] Validate a Binary Search Tree - [Ques on Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)
