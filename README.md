@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-A collection of all the code samples, notes, and exercises created while learning data structures and algorithms.
+A collection of all the code samples, notes, exercises and resources collected while learning Data Structures and Algorithms.
 
 ## Contents
 
@@ -33,6 +33,7 @@ A collection of all the code samples, notes, and exercises created while learnin
 1. [Recursion](./Algorithms/Recursion/readme.md)
 2. [Sorting](./Algorithms/Sorting/readme.md)
 3. [Searching](./Algorithms/Searching/readme.md)
+4. [Dynamic Programming](./Algorithms/Dynamic%20Programming/readme.md)
 
 ## Resources
 
