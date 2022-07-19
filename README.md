@@ -48,7 +48,7 @@ A collection of all the code samples, notes, exercises and resources collected w
 ## To-Do's
 
 - [] Array questions (leetcode) from _arrays_ section
-- [] Watch the video titled "How Javascript Works?" from the _stacks and queues_ section
+- [x] Watch the video titled "How Javascript Works?" from the _stacks and queues_ section
 - [] Read about **Abstract Syntax Tree**
 - [] Read about **Data Structure vs Abstract Data Type**
 - [] Understand and add `remove()` method to our binary search trees
@@ -59,3 +59,5 @@ A collection of all the code samples, notes, exercises and resources collected w
 - [] Learn how to code Merge Sort and Quick sort
 - [] Learn Heap sort
 - [] Validate a Binary Search Tree - [Ques on Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)
+- [] DP questions (leetcode) from _dynamic programming_ section
+- [] See about bottom-up approach for dynamic programming
