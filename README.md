@@ -21,19 +21,19 @@ A collection of all the code samples, notes, exercises and resources collected w
 
 #### Data Structures
 
-1. [Arrays](./Data%20Structures/Arrays/readme.md)
-2. [Hash Tables](./Data%20Structures/Hash%20Tables/readme.md)
-3. [Linked Lists](./Data%20Structures//Linked%20Lists/readme.md)
-4. [Stacks and Queues](./Data%20Structures/Stacks%20%26%20Queues/readme.md)
-5. [Trees](./Data%20Structures/Trees/readme.md)
-6. [Graphs](./Data%20Structures/Graphs/readme.md)
+1. [Arrays](./Data%20Structures/Arrays)
+2. [Hash Tables](./Data%20Structures/Hash%20Tables)
+3. [Linked Lists](./Data%20Structures//Linked%20Lists)
+4. [Stacks and Queues](./Data%20Structures/Stacks%20%26%20Queues)
+5. [Trees](./Data%20Structures/Trees)
+6. [Graphs](./Data%20Structures/Graphs)
 
 #### Algorithms
 
-1. [Recursion](./Algorithms/Recursion/readme.md)
-2. [Sorting](./Algorithms/Sorting/readme.md)
-3. [Searching](./Algorithms/Searching/readme.md)
-4. [Dynamic Programming](./Algorithms/Dynamic%20Programming/readme.md)
+1. [Recursion](./Algorithms/Recursion)
+2. [Sorting](./Algorithms/Sorting)
+3. [Searching](./Algorithms/Searching)
+4. [Dynamic Programming](./Algorithms/Dynamic%20Programming)
 
 ## Resources
 
