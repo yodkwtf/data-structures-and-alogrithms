@@ -37,6 +37,7 @@ A collection of all the code samples, notes, exercises and resources collected w
 
 ## Resources
 
+- [A Basic Roadmap to DSA](https://dynalist.io/d/nXXVAcgAsj62GW-XaIiJS3o9)
 - [Big-O Reference Cheatsheet](https://www.bigocheatsheet.com/)
 - [Visualize DSA with Illustrations](https://visualgo.net/en)
 - [Sorting Algorithm Animations](https://www.toptal.com/developers/sorting-algorithms)
