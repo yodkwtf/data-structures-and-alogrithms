@@ -2,6 +2,8 @@
 
 A collection of all the code samples, notes, exercises and resources collected while learning Data Structures and Algorithms.
 
+[DSA Resources - Google Doc](https://docs.google.com/document/d/12n2iJcjYPfkZDfx9oI8wqUFZBtRPtpUe0bnOqKaZwYs/edit?usp=sharing)
+
 ## Contents
 
 #### Big-O
@@ -48,17 +50,18 @@ A collection of all the code samples, notes, exercises and resources collected w
 
 ## To-Do's
 
-- [] Array questions (leetcode) from _arrays_ section
+- [ ] Array questions (leetcode) from _arrays_ section
 - [x] Watch the video titled "How Javascript Works?" from the _stacks and queues_ section
-- [] Read about **Abstract Syntax Tree**
-- [] Read about **Data Structure vs Abstract Data Type**
-- [] Understand and add `remove()` method to our binary search trees
-- [] Read more about Balanced BST (AVL and Red Black), possibly from [here](https://www.geeksforgeeks.org/red-black-tree-vs-avl-tree/amp/)?
-- [] Read more about heaps and how to implement them
-- [] Read what's Tail Call Optimization, possibly from [this source](https://2ality.com/2015/06/tail-call-optimization.html)?
-- [] Read about stable vs unstable algorithms
-- [] Learn how to code Merge Sort and Quick sort
-- [] Learn Heap sort
-- [] Validate a Binary Search Tree - [Ques on Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)
-- [] DP questions (leetcode) from _dynamic programming_ section
-- [] See about bottom-up approach for dynamic programming
+- [ ] Read about **Abstract Syntax Tree**
+- [ ] Read about **Data Structure vs Abstract Data Type**
+- [ ] Understand and add `remove()` method to our binary search trees
+- [ ] Read more about Balanced BST (AVL and Red Black), possibly from [here](https://www.geeksforgeeks.org/red-black-tree-vs-avl-tree/amp/)?
+- [ ] Read more about heaps and how to implement them
+- [ ] Read what's Tail Call Optimization, possibly from [this source](https://2ality.com/2015/06/tail-call-optimization.html)?
+- [ ] Read about stable vs unstable algorithms
+- [ ] Learn how to code Merge Sort and Quick sort
+- [ ] Learn Heap sort
+- [ ] Validate a Binary Search Tree - [Ques on Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)
+- [ ] DP questions (leetcode) from _dynamic programming_ section
+- [ ] See about bottom-up approach for dynamic programming
+- [ ] Finish all interview questions from the course [section #19]
