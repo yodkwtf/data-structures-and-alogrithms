@@ -46,12 +46,22 @@ A collection of all the code samples, notes, exercises and resources collected w
 - [Google's Coding Interview](https://youtu.be/XKu_SEDAykw)
 - [The Best YouTube Channel for DSA](https://www.youtube.com/c/BackToBackSWE/playlists)
 
+#### Practice Questions
+
+- [Array Questions - LeetCode](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12310382#overview)
+- [Validate a Binary Search Tree - Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Dynamic Programming Questions - LeetCode](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12409090#overview)
+- [Top Interview Questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12246878#overview)
+- [Amazon Interview Questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12246840#overview)
+- [Facebook Interview Questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12246842#overview)
+- [Google Interview Questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12246838#overview)
+- [Domain Specific Questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12246846#overview)
+
 ## To-Do's
 
-- [ ] Finish Arrays [LeetCode questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12310382#overview)
 - [x] Watch the video titled "How Javascript Works?" from the _stacks and queues_ section
-- [ ] Read about **Abstract Syntax Tree**
-- [ ] Read about **Data Structure vs Abstract Data Type**
+- [ ] Read about Abstract Syntax Tree
+- [ ] Read about Data Structure vs Abstract Data Type
 - [ ] Understand and add `remove()` method to our binary search trees
 - [ ] Read more about Balanced BST (AVL and Red Black), possibly from [here](https://www.geeksforgeeks.org/red-black-tree-vs-avl-tree/amp/)?
 - [ ] Read more about heaps and how to implement them
@@ -59,12 +69,4 @@ A collection of all the code samples, notes, exercises and resources collected w
 - [ ] Read about stable vs unstable algorithms
 - [ ] Learn how to code Merge Sort and Quick sort
 - [ ] Learn Heap sort
-- [ ] Validate a Binary Search Tree - [Question on Leetcode](https://leetcode.com/problems/validate-binary-search-tree/)
-- [ ] Finish Dynamic Programming [LeetCode questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12409090#overview)
 - [ ] See about bottom-up approach for dynamic programming
-- [ ] Finish these interview questions
-  - [ ] [Top Interview Questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12246878#overview)
-  - [ ] [Amazon Interview Questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12246840#overview)
-  - [ ] [Facebook Interview Questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12246842#overview)
-  - [ ] [Google Interview Questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12246838#overview)
-  - [ ] [Domain Specific Questions](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/learn/lecture/12246846#overview)
