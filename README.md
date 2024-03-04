@@ -17,7 +17,7 @@ A collection of all the code samples, notes, exercises and resources collected w
 [Google's Coding Interview - Video](https://www.youtube.com/watch?v=XKu_SEDAykw&ab_channel=LifeatGoogle)
 
 - [Google Interview - Solution](./How-To-Solve-Problems/google-interview-question.js)
-- [Cheatsheet](./How-To-Solve-Problems/cheatsheet.pdf)
+- [Tips and Tricks](./How-To-Solve-Problems/cheatsheet.pdf)
 
 #### Data Structures
 
