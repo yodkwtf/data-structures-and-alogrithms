@@ -12,7 +12,7 @@ The **Perfect Binary Tree** allows us to have the Big-O Notation of **O(log N)**
 
 ## Binary Search Tree
 
-It is a subset of Binary Tree, great for searching. Here all child nodes to right of the parent node should be greater than their respective parent node and similarly, all child node to left of the parent node should be lesser than parent node.
+It is a subset of Binary Tree, great for searching. Here all child nodes to the right of the parent node should be greater than their respective parent node; similarly, all child node to left of the parent node should be lesser than the parent node.
 
 #### Time Complexities
 
@@ -26,11 +26,11 @@ This is so great because we don't iterate over all the nodes here, we use the di
 
 #### Balanced vs Unbalanced Trees
 
-This happens when all the child nodes keep getting added at one side of the parent node and essentially the tree basically ends up like a Linked List (try to visualize a linear branch). This makes the Big-O change to O(n) which is not at all ideal.
+This happens when all the child nodes keep getting added at one side of the parent node and essentially the tree basically ends up like a Linked List (try to visualize a linear branch). This makes the Big-O change to O(n) which is not ideal.
 
 Hence we should always try to keep a balanced tree.
 
-For the real world, there are trees which automatically balance themselves. For eg:
+In the real world, there are trees that automatically balance themselves. For eg:
 
 - AVL Trees
 - Red Black Trees
