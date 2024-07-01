@@ -2,10 +2,10 @@
 
 Arrays are used to organize items sequentially, one after another in memory.
 
-There are 2 types of array:
+There are 2 types of arrays:
 
 - Static -> Size(space in memory) is fixed and specified beforehand
-- Dynamic -> Allows us to copy and rebuild arrays at new location with more memory to store new items
+- Dynamic -> Allows us to copy and rebuild arrays at a new location with more memory to store new items
 
 #### Time Complexities
 
