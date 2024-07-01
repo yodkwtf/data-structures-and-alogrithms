@@ -1,10 +1,10 @@
 ## Stacks
 
-Stacks is a data structure which can be considered as a stack of plates sitting on top of each other, vertically, where we can only access the top plate.
+Stacks is a data structure that can be considered as a stack of plates sitting on top of each other, vertically, where we can only access the top plate.
 
-To access the items below, we'd first have to remove the items from top one by one. This method is known as **LIFO (Last In First Out)**.
+To access the items below, we'd first have to remove the items from the top one by one. This method is known as **LIFO (Last In First Out)**.
 
-Basically the item that was added the last (the top plate) is remove the first.
+Basically, the item that was added the last (the top plate) is removed the first.
 
 Examples -
 
@@ -16,7 +16,7 @@ Examples -
 
 Stacks are not in-built but we can create our own using arrays or linked lists. Both of them are ideal choices but it usually depends on the operations we need to perform.
 
-Accessing items is faster in arrays since values are next to each other where as linked lists, unlike arrays, don't have any memory limitations.
+Accessing items is faster in arrays since values are next to each other whereas linked lists, unlike arrays, don't have any memory limitations.
 
 #### Time Complexities
 
