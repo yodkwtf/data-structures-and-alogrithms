@@ -4,9 +4,9 @@
 - Pretty similar and can be implemented in similar ways
 - Main diff. is how items get removed
 
-Unlike arrays there's no random access operations. These mainly include operations that deal with elements either at beginning or end of the data structure (push, pop, etc.).
+Unlike arrays, there are no random access operations. These mainly include operations that deal with elements either at the beginning or end of the data structure (push, pop, etc.).
 
-We can built stacks and queues using arrays and linked lists but with a lesser no. of operations.
+We can build stacks and queues using arrays and linked lists but with a lesser no. of operations.
 
 ## Contents
 
