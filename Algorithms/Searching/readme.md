@@ -35,9 +35,9 @@ DFS is used when target is very deep or we need to figure out "Does the path exi
 
 These are 3 different methods we can use for DFS where we follow a specific pattern/principle at every node based on which of these algorithms we're using.
 
-PreOrder -> node |Left SubChild | Right SubChild
-InOrder -> Left SubChild | node | Right SubChild
-PostOrder -> Left SubChild | Right SubChild | node
+- PreOrder -> node |Left SubChild | Right SubChild
+- InOrder -> Left SubChild | node | Right SubChild
+- PostOrder -> Left SubChild | Right SubChild | node
 
 _node_ means we print that node
 _Left_ subchild means we look for any possible child nodes on left and move to them if they exist
