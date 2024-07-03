@@ -53,9 +53,9 @@ Graphs are the most used data structure to mimic real-world data. We use BFS and
 
 Just like BFS, these 2 algorithms are used to find the shortest path but unlike BFS they also account for the edge of the graph vertices while finding the shortest path.
 
-Just like traffic can affect the routes on a map, edges, and their values can do the same. Hence, if we have a weighted graph we should b/w one of these 2.
+Just like traffic can affect the routes on a map, edges, and their values can do the same. Hence, if we have a weighted graph we should choose b/w one of these 2.
 
-**Bellman Ford** - It can also consider negative edges while computing shortest path. Although it's very efficient with the worst-case time complexity of O(n^2).
+**Bellman Ford** - It can also consider negative edges while computing shortest path. Although it's not very efficient with the worst-case time complexity of O(n^2).
 
 **Dijkstra** - Although it can't consider negative edges it's faster than the Bellman-Ford algorithm for computing shortest path and has a better time complexity.
 
