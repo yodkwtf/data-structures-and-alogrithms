@@ -1,6 +1,6 @@
 # Data Structures and Algorithms
 
-A collection of all the code samples, notes, exercises and resources collected while learning Data Structures and Algorithms.
+A collection of all the code samples, notes, exercises, and resources collected while learning Data Structures and Algorithms.
 
 ## Contents
 
